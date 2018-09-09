@@ -20,7 +20,7 @@ A propagação para as exchanges e outros trabalhos está sendo necessária para
 
 [img]https://www.splunk.com/content/dam/splunk2/images/icons/products-solutions/website-performance-icon-01.png[/img] [size=40pt]https://sperocoin.ddns.net[/size]
 
-[size=98pt][url=https://discord.gg/zAMNCZj][img]https://www.shareicon.net/data/128x128/2017/06/21/887435_logo_512x512.png[/img][/url] | [email=sperocoin@gmail.com][img]http://www.icon2s.com/img128/128x128-gmail.png[/img][/email] | [url=https://t.me/sperocoin_official][img]http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png[/img][/url] | [url=https://www.facebook.com/sperocoinofficial/][img]https://icon-icons.com/icons2/478/PNG/128/facebook_47004.png[/img][/url] | [url=https://trello.com/b/jYZvXKDs/sperocoin][img]https://www.shareicon.net/data/128x128/2016/07/10/119952_trello_512x512.png[/img][/url] | [url=https://sperocoin.slack.com/][img]https://sozercan.gallerycdn.vsassets.io/extensions/sozercan/slack/0.0.13/1487008473820/Microsoft.VisualStudio.Services.Icons.Default[/img][/url] | [url=https://twitter.com/Spero_Official][img]https://icon-icons.com/icons2/555/PNG/128/twitter_icon-icons.com_53611.png[/img][/url] | [url=https://www.youtube.com/channel/UCQQjsoCjR_THbZ4AmalzPPg][img]http://icons.iconarchive.com/icons/danleech/simple/128/youtube-icon.png[/img][/url][/size]
+[size=98pt][url=https://discord.gg/zAMNCZj][img]https://www.shareicon.net/data/128x128/2017/06/21/887435_logo_512x512.png[/img][/url] | [email=sperocoin@gmail.com][img]https://image.flaticon.com/icons/png/128/300/300228.png[/img][/email] | [url=https://t.me/sperocoin_official][img]http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png[/img][/url] | [url=https://www.facebook.com/sperocoinofficial/][img]https://icon-icons.com/icons2/478/PNG/128/facebook_47004.png[/img][/url] | [url=https://trello.com/b/jYZvXKDs/sperocoin][img]https://www.shareicon.net/data/128x128/2016/07/10/119952_trello_512x512.png[/img][/url] | [url=https://sperocoin.slack.com/][img]https://sozercan.gallerycdn.vsassets.io/extensions/sozercan/slack/0.0.13/1487008473820/Microsoft.VisualStudio.Services.Icons.Default[/img][/url] | [url=https://twitter.com/Spero_Official][img]https://icon-icons.com/icons2/555/PNG/128/twitter_icon-icons.com_53611.png[/img][/url] | [url=https://www.youtube.com/channel/UCQQjsoCjR_THbZ4AmalzPPg][img]http://icons.iconarchive.com/icons/danleech/simple/128/youtube-icon.png[/img][/url][/size]
 
 [size=15pt][b]Download:[/b]
 [url=https://drive.google.com/open?id=19iKufDG64tKhjLiLtL6CIJ9t4Q2JEJ9f]QT Windows[/url]
@@ -37,7 +37,8 @@ A propagação para as exchanges e outros trabalhos está sendo necessária para
 
 [img]https://i.imgur.com/BMqYUmj.png[/img]
 
-[img]https://i.imgur.com/uSkOoQC.png[/img]
+[img]https://sperocoin.ddns.net/white_paper/assets/images/distribuicao.png[/img]
+[img]https://sperocoin.ddns.net/white_paper/assets/images/foundation.png[/img]
 
 
 [img]https://i.imgur.com/Nw9uHRt.png[/img]
@@ -92,20 +93,20 @@ addnode=35.199.96.221:55680
 
 [size=15pt]
 OFFICIAL
-[color=green]•[/color] [OFFICIAL] 线上! → https://sperocoin.ddns.net/exchange/
+[color=green]•[/color] [OFFICIAL] ONLINE! → https://sperocoin.ddns.net/exchange/
 
 ALTILLY
-[color=green]•[/color] 线上! → https://www.altilly.com/market/SPERO_BTC
-[color=green]•[/color] 线上! → https://www.altilly.com/market/SPERO_ETH
-[color=green]•[/color] 线上! → https://www.altilly.com/market/SPERO_DOGE
+[color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_BTC
+[color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_ETH
+[color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_DOGE
 
 P2P
-[color=green]•[/color] 线上! → https://p2brasil.com/producto/sperocoin/
-[color=green]•[/color] 线上! → https://catalogop2p.com.br/sperocoin-sustentabilidade-em-tecnologia
+[color=green]•[/color] ONLINE! → https://p2brasil.com/producto/sperocoin/
+[color=green]•[/color] ONLINE! → https://catalogop2p.com.br/sperocoin-sustentabilidade-em-tecnologia
 
 VOTE
-[color=red]•[/color] 投票：https://c-cex.com/?id=vote&coin=spero
-[color=red]•[/color] 投票：https://aiodex.com/vote/spero
+[color=red]•[/color] VOTE!：https://c-cex.com/?id=vote&coin=spero
+[color=red]•[/color] VOTE!：https://aiodex.com/vote/spero
 [/size]
 
 [img]https://i.imgur.com/ubYvDj7.png[/img]
