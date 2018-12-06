@@ -3,6 +3,7 @@
 [img]https://camo.githubusercontent.com/62db3b7ec3edbc6d7d8955076576c5fcafad2a17/68747470733a2f2f692e696d6775722e636f6d2f6c58534d4d52322e706e67[/img]
 
 [img]https://i.imgur.com/94Tqfhg.png[/img]
+
 [color=orange][size=19pt][b]Sperocoin [/b] é uma moeda POW/POS, ou seja, pode ser obtida tanto com a mineração via CPU/GPU quanto pela mineração apenas deixando a wallet aberta com saldo disponível.
 Desta forma você não briga com grandes centros de mineração, conseguindo obter suas moedas também apenas com saldo ativo.
 [/size][/color]
@@ -18,9 +19,11 @@ A propagação para as exchanges e outros trabalhos está sendo necessária para
 
 [img]https://i.imgur.com/8UEXAFu.png[/img]
 
-[img]https://www.splunk.com/content/dam/splunk2/images/icons/products-solutions/website-performance-icon-01.png[/img] [size=40pt]https://sperocoin.ddns.net[/size]
+[img]https://www.splunk.com/content/dam/splunk2/images/icons/products-solutions/website-performance-icon-01.png[/img]
+[size=40pt]https://sperocoin.org[/size]
 
-[size=98pt][url=https://discord.gg/zAMNCZj][img]https://www.shareicon.net/data/128x128/2017/06/21/887435_logo_512x512.png[/img][/url] | [email=sperocoin@gmail.com][img]https://image.flaticon.com/icons/png/128/300/300228.png[/img][/email] | [url=https://t.me/sperocoin_official][img]http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png[/img][/url] | [url=https://www.facebook.com/sperocoinofficial/][img]https://icon-icons.com/icons2/478/PNG/128/facebook_47004.png[/img][/url] | [url=https://trello.com/b/jYZvXKDs/sperocoin][img]https://www.shareicon.net/data/128x128/2016/07/10/119952_trello_512x512.png[/img][/url] | [url=https://sperocoin.slack.com/][img]https://sozercan.gallerycdn.vsassets.io/extensions/sozercan/slack/0.0.13/1487008473820/Microsoft.VisualStudio.Services.Icons.Default[/img][/url] | [url=https://twitter.com/Spero_Official][img]https://icon-icons.com/icons2/555/PNG/128/twitter_icon-icons.com_53611.png[/img][/url] | [url=https://www.youtube.com/channel/UCQQjsoCjR_THbZ4AmalzPPg][img]http://icons.iconarchive.com/icons/danleech/simple/128/youtube-icon.png[/img][/url][/size]
+[size=10pt]
+[url=https://discord.gg/zAMNCZj][img]https://www.shareicon.net/data/128x128/2017/06/21/887435_logo_512x512.png[/img][/url] [email=sperocoin@gmail.com][img]https://image.flaticon.com/icons/png/128/300/300228.png[/img][/email] | [url=https://t.me/sperocoin_official][img]http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png[/img][/url] | [url=https://www.facebook.com/sperocoinofficial/][img]https://icon-icons.com/icons2/478/PNG/128/facebook_47004.png[/img][/url] | [url=https://trello.com/b/jYZvXKDs/sperocoin][img]https://www.shareicon.net/data/128x128/2016/07/10/119952_trello_512x512.png[/img][/url] | [url=https://sperocoin.slack.com/][img]https://sozercan.gallerycdn.vsassets.io/extensions/sozercan/slack/0.0.13/1487008473820/Microsoft.VisualStudio.Services.Icons.Default[/img][/url] | [url=https://twitter.com/Spero_Official][img]https://icon-icons.com/icons2/555/PNG/128/twitter_icon-icons.com_53611.png[/img][/url] | [url=https://www.youtube.com/channel/UCQQjsoCjR_THbZ4AmalzPPg][img]http://icons.iconarchive.com/icons/danleech/simple/128/youtube-icon.png[/img][/url][/size]
 
 [size=15pt][b]Download:[/b]
 [url=https://drive.google.com/open?id=19iKufDG64tKhjLiLtL6CIJ9t4Q2JEJ9f]QT Windows[/url]
@@ -30,15 +33,15 @@ A propagação para as exchanges e outros trabalhos está sendo necessária para
 
 [img]https://i.imgur.com/rKTz1It.png[/img]
 
-[url=https://sperocoin.ddns.net/webwallet][img]https://i.imgur.com/kgP7SkY.png[/img][/url]
+[url=https://webwallet.sperocoin.org][img]https://i.imgur.com/kgP7SkY.png[/img][/url]
 
 
-[url=https://sperocoin.ddns.net/faucet][img]https://i.imgur.com/t9KdPim.png[/img][/url]
+[url=https://sperocoin.org/faucet][img]https://i.imgur.com/t9KdPim.png[/img][/url]
 
 [img]https://i.imgur.com/BMqYUmj.png[/img]
 
-[img]https://sperocoin.ddns.net/white_paper/assets/images/distribuicao.png[/img]
-[img]https://sperocoin.ddns.net/white_paper/assets/images/foundation.png[/img]
+[img]https://sperocoin.org/whitepaper/assets/images/distribuicao.png[/img]
+[img]https://sperocoin.org/whitepaper/assets/images/foundation.png[/img]
 
 
 [img]https://i.imgur.com/Nw9uHRt.png[/img]
@@ -81,32 +84,31 @@ daemon=1
 server=1
 rpcallowip=127.0.0.1
 testnet=0
-addnode=hopeassistencia.ddns.net:55680
-addnode=sperocoin.ddns.net:55682
-addnode=dnssperocoin.ddnsking.com:55680
 addnode=18.228.13.3:55680
-addnode=35.232.45.9:55680
-addnode=35.199.96.221:55680
+addnode=35.198.22.94:55680
+addnode=sperocoin.ddns.net:55680
+addnode=167.114.103.43:55680
+addnode=104.248.225.117:55680
+addnode=45.195.201.179:55680
+addnode=189.26.128.166:55680
 [/quote]
 
 [img]https://i.imgur.com/R0q22Fj.png[/img]
 
 [size=15pt]
-OFFICIAL
-[color=green]•[/color] [OFFICIAL] ONLINE! → https://sperocoin.ddns.net/exchange/
 
 ALTILLY
-[color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_BTC
-[color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_ETH
-[color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_DOGE
+[color=green]•[/color] ONLINE! ? https://www.altilly.com/market/SPERO_BTC
+[color=green]•[/color] ONLINE! ? https://www.altilly.com/market/SPERO_ETH
+[color=green]•[/color] ONLINE! ? https://www.altilly.com/market/SPERO_DOGE
 
 P2P
-[color=green]•[/color] ONLINE! → https://p2brasil.com/producto/sperocoin/
-[color=green]•[/color] ONLINE! → https://catalogop2p.com.br/sperocoin-sustentabilidade-em-tecnologia
+[color=green]•[/color] ONLINE! ? https://p2brasil.com/producto/sperocoin/
+[color=green]•[/color] ONLINE! ? https://catalogop2p.com.br/sperocoin-sustentabilidade-em-tecnologia
 
 VOTE
-[color=red]•[/color] VOTE!：https://c-cex.com/?id=vote&coin=spero
-[color=red]•[/color] VOTE!：https://aiodex.com/vote/spero
+[color=red]•[/color] VOTE!:https://c-cex.com/?id=vote&coin=spero
+[color=red]•[/color] VOTE!:https://aiodex.com/vote/spero
 [/size]
 
 [img]https://i.imgur.com/ubYvDj7.png[/img]
@@ -116,7 +118,7 @@ VOTE
 
 [img]https://i.imgur.com/uhThbtH.png[/img]
 
-→ http://35.198.22.94:3001
+? http://35.198.22.94:3001
 
 [img]https://i.imgur.com/XVOgvwP.png[/img]
 
@@ -166,7 +168,7 @@ Wallet MAC: 1000 SPERO
 3x Ponto de Troca(Mercado Social): 5000 SPERO
 
 Traduza nosso tópico Official e ganhe moedas!
-📣 BTCTalk: https://bitcointalk.org/index.php?topic=2260985.0
+?? BTCTalk: https://bitcointalk.org/index.php?topic=2260985.0
 
 Traduções:
 Coreano: https://bitcointalk.org/index.php?topic=2302789.0
@@ -190,28 +192,27 @@ Os valores serão pagos apenas 01(uma) vez por usuário verificado!
 [color=red]PROPOSTA DE TAREFA[/color]
 
 [size=12pt]Desenvolvimento Multiplataformas[/size]
-[color=green]→ Lançamento Oficial do Aplicativo Android[/color]
+[color=green]? Lançamento Oficial do Aplicativo Android[/color]
 
 [size=12pt]Usabilidade[/size]
-[color=green]→ Site de Mineração em Nuvem Oficial[/color]
-[color=red]→ Liberação de sistema de recargas de celulares na casa de câmbio oficial
-→ Pagamento de Boletos Bancários na Casa de Câmbio Oficial[/color]
+[color=green]? Site de Mineração em Nuvem Oficial[/color]
+[color=red]? Liberação de sistema de recargas de celulares na casa de câmbio oficial
+? Pagamento de Boletos Bancários na Casa de Câmbio Oficial[/color]
 
 [size=12pt]Exchanges e Serviços P2P - Serviços de Terceiros[/size]
-[color=green]→ Cadastro perfil de vendedor no site brasileiro P2Brasil
-→ Cadastro de moeda no site brasileiro Catálogo P2P
-→ Cadastro perfil de vendedor no site brasileiro Catálogo P2P[/color]
-[color=red]→ Entrada em Casa de Câmbio maior[/color]
+[color=green]? Cadastro perfil de vendedor no site brasileiro P2Brasil
+? Cadastro de moeda no site brasileiro Catálogo P2P
+? Cadastro perfil de vendedor no site brasileiro Catálogo P2P[/color]
+[color=red]? Entrada em Casa de Câmbio maior[/color]
 
 [size=12pt]Exchanges e Serviços P2P - Serviços Oficiais Spero[/size]
-[color=red]→ Liberação de saques em Reais(BRL) na casa de câmbio oficial[/color]
-[color=green]→ Troca de SPERO ←→ DOGE na casa de câmbio oficial
-→ Troca de SPERO ←→ MERCADOPAGO na casa de câmbio oficial[/color]
+[color=orange]? Criação de Exchange própria[/color]
+[color=red]? Liberação de saques em Reais(BRL) na casa de câmbio oficial[/color]
 
 [size=12pt]Serviços Sociais[/size]
-[color=red]→ Participação em projetos sociais dentro da comunidade da cidade de Belo Horizonte
-→ Criação do Mercado Social
-→ Criação do Banco Social Spero[/color][/b]
+[color=red]? Participação em projetos sociais dentro da comunidade da cidade de Belo Horizonte
+? Criação do Mercado Social
+? Criação do Banco Social Spero[/color][/b]
 
 [img]https://i.imgur.com/Yqbxkz2.png[/img]
 [/center]
@@ -234,21 +235,21 @@ Update Protocol Others general's updates
 
 [b]$0010 2017/10/10[/b]
 Update for new implementations:
-→ Added option of cleaning of orphans blocks;
-→ Added display option "STAKE" in the "type" column inside the "Transactions" tab;
-→ Added "setban" node "" add | remove "(bantime)" / "listbanned" and "clearbanned" in the RPC console;
+? Added option of cleaning of orphans blocks;
+? Added display option "STAKE" in the "type" column inside the "Transactions" tab;
+? Added "setban" node "" add | remove "(bantime)" / "listbanned" and "clearbanned" in the RPC console;
 
 [b]$0012 2017/10/11[/b]
 Ban Forked Peers who are stuck in a Getblocks Loop.
 
 [b]$0013 2017/10/22[/b]
-→ Update of strings names;
-→ Updating information in README.md
-→ Update Stake Info in QT Wallet
+? Update of strings names;
+? Updating information in README.md
+? Update Stake Info in QT Wallet
 
 [b]$0015 2017/11/18[/b]
-→ Release of testnet mining;
-→ File Fix:
+? Release of testnet mining;
+? File Fix:
 • main.cpp
 • alter.cpp
 • checkpoints.cpp
@@ -259,35 +260,35 @@ Add node in the source:
 addnode=http://dnssperocoin.ddnsking.com:55680
 
 [b]$0017 2018/03/28[/b]
-→ Add RPC Command "GETWALLETINFO"
-→ Update of transaction maturity icons
-→ splash screen main update
-→ Updating the logo inside the Wallet
-→ Added hashGenesisBlockTestNet = 0x00001fe23e7d6951a2a07ad684ff208fab9110fad607fabd81482a1692382f8f in main.h file
-→ Added testnet block.nNonce in main.cpp file (block.nNonce = 15547;)
-→ Added static MapCheckpoints mapCheckpointsTestnet = (0, uint256("0x000006f4925ed7b889f847f24621390d4943466f091c3254ca1bd8becc517f7b")) in the checkpoints.cpp file
-→ Change the initial letter of the testnet addresses in the base58.h file (PUBKEY_ADDRESS_TEST = 125, // Initial address letter (63 = s) -TESTNET))
-→ Change the example initial letter in the file qt / sendcoinsdialog.cpp
+? Add RPC Command "GETWALLETINFO"
+? Update of transaction maturity icons
+? splash screen main update
+? Updating the logo inside the Wallet
+? Added hashGenesisBlockTestNet = 0x00001fe23e7d6951a2a07ad684ff208fab9110fad607fabd81482a1692382f8f in main.h file
+? Added testnet block.nNonce in main.cpp file (block.nNonce = 15547;)
+? Added static MapCheckpoints mapCheckpointsTestnet = (0, uint256("0x000006f4925ed7b889f847f24621390d4943466f091c3254ca1bd8becc517f7b")) in the checkpoints.cpp file
+? Change the initial letter of the testnet addresses in the base58.h file (PUBKEY_ADDRESS_TEST = 125, // Initial address letter (63 = s) -TESTNET))
+? Change the example initial letter in the file qt / sendcoinsdialog.cpp
 (ui-> lineEditCoinControlChange-> setPlaceholderText (tr ("Enter the SperoCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)"));)
-→ Changed version to 2.6.4.3
+? Changed version to 2.6.4.3
 
 [b]$0019 2018/07/15[/b]
-→ Added RPC command "getnetworkinfo" - Change in files: bitcoinrpc.cpp;
+? Added RPC command "getnetworkinfo" - Change in files: bitcoinrpc.cpp;
 bitcoinrpc.h; rpcblockchain.cpp; rpcnet.cpp
-→ Added RPC command "getblockchaininfo" - Change in files:
+? Added RPC command "getblockchaininfo" - Change in files:
 bitcoinrpc.cpp; bitcoinrpc.h; rpcblockchain.cpp; rpcnet.cpp
-→ Added Wallet Status Information (Locked or Unlocked) in the RPC
+? Added Wallet Status Information (Locked or Unlocked) in the RPC
 command "getinfo"
-→ Added new points in the network map updating the mapping up to block
+? Added new points in the network map updating the mapping up to block
 130000- Change in file: checkpoints.cpp
-→ Changing copyrights, updating the start date of SperoCoin works,
+? Changing copyrights, updating the start date of SperoCoin works,
 being: "Copyright © 2017 The SperoCoin developers" - Change in ".ts"
 files in the "src \ qt \ locale" folder
-→ Update of QT splashscreen images
-→ Changing QT fonts for "Century Gothic"
-→ Clear Orphans with automatic transaction page refresh, no need to
+? Update of QT splashscreen images
+? Changing QT fonts for "Century Gothic"
+? Clear Orphans with automatic transaction page refresh, no need to
 restart wallet
-→ Changed version to 2.6.4.4
+? Changed version to 2.6.4.4
 
 [center][img]http://www.cursosopcao.com.br/lojavirtual/wp-content/uploads/2016/10/servicos-talento-sa_recrutamento-selecao-rh1.png[/img][/center]
 
@@ -340,4 +341,4 @@ Em breve...
 
 
 
-[url=https://sperocoin.ddns.net/][img]http://sperocoin.ddns.net/files/footer-logo1.png[/img][/url]
+[url=https://sperocoin.org/][img]http://sperocoin.org/files/footer-logo1.png[/img][/url]
