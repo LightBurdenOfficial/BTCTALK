@@ -98,13 +98,14 @@ addnode=189.26.128.166:55680
 [size=15pt]
 
 ALTILLY
-[color=green]•[/color] ONLINE! ? https://www.altilly.com/market/SPERO_BTC
-[color=green]•[/color] ONLINE! ? https://www.altilly.com/market/SPERO_ETH
-[color=green]•[/color] ONLINE! ? https://www.altilly.com/market/SPERO_DOGE
+[color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_BTC
+[color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_ETH
+[color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_DOGE
+
 
 P2P
-[color=green]•[/color] ONLINE! ? https://p2brasil.com/producto/sperocoin/
-[color=green]•[/color] ONLINE! ? https://catalogop2p.com.br/sperocoin-sustentabilidade-em-tecnologia
+[color=green]•[/color] ONLINE! → https://p2brasil.com/producto/sperocoin/
+[color=green]•[/color] ONLINE! → https://catalogop2p.com.br/sperocoin-sustentabilidade-em-tecnologia
 
 VOTE
 [color=red]•[/color] VOTE!:https://c-cex.com/?id=vote&coin=spero
@@ -118,7 +119,7 @@ VOTE
 
 [img]https://i.imgur.com/uhThbtH.png[/img]
 
-? http://35.198.22.94:3001
+→ http://35.198.22.94:3001
 
 [img]https://i.imgur.com/XVOgvwP.png[/img]
 
@@ -168,12 +169,14 @@ Wallet MAC: 1000 SPERO
 3x Ponto de Troca(Mercado Social): 5000 SPERO
 
 Traduza nosso tópico Official e ganhe moedas!
-?? BTCTalk: https://bitcointalk.org/index.php?topic=2260985.0
+→→ BTCTalk: https://bitcointalk.org/index.php?topic=2260985.0
 
 Traduções:
 Coreano: https://bitcointalk.org/index.php?topic=2302789.0
 Russo: https://bitcointalk.org/index.php?topic=2315313.0
-Romeno: https://bitcointalk.org/index.php?topic=4601437.0
+Inglês: https://bitcointalk.org/index.php?topic=5058988.0
+Português: https://bitcointalk.org/index.php?topic=5060708.0
+Francês: https://bitcointalk.org/index.php?topic=5081447.0
 
 Premiação:
 BrandNew ou Newbie: 100 SPERO
@@ -192,27 +195,27 @@ Os valores serão pagos apenas 01(uma) vez por usuário verificado!
 [color=red]PROPOSTA DE TAREFA[/color]
 
 [size=12pt]Desenvolvimento Multiplataformas[/size]
-[color=green]? Lançamento Oficial do Aplicativo Android[/color]
+[color=green]→ Lançamento Oficial do Aplicativo Android[/color]
 
 [size=12pt]Usabilidade[/size]
-[color=green]? Site de Mineração em Nuvem Oficial[/color]
-[color=red]? Liberação de sistema de recargas de celulares na casa de câmbio oficial
-? Pagamento de Boletos Bancários na Casa de Câmbio Oficial[/color]
+[color=green]→ Site de Mineração em Nuvem Oficial[/color]
+[color=red]→ Liberação de sistema de recargas de celulares na casa de câmbio oficial
+→ Pagamento de Boletos Bancários na Casa de Câmbio Oficial[/color]
 
 [size=12pt]Exchanges e Serviços P2P - Serviços de Terceiros[/size]
-[color=green]? Cadastro perfil de vendedor no site brasileiro P2Brasil
-? Cadastro de moeda no site brasileiro Catálogo P2P
-? Cadastro perfil de vendedor no site brasileiro Catálogo P2P[/color]
-[color=red]? Entrada em Casa de Câmbio maior[/color]
+[color=green]→ Cadastro perfil de vendedor no site brasileiro P2Brasil
+→ Cadastro de moeda no site brasileiro Catálogo P2P
+→ Cadastro perfil de vendedor no site brasileiro Catálogo P2P[/color]
+[color=red]→ Entrada em Casa de Câmbio maior[/color]
 
 [size=12pt]Exchanges e Serviços P2P - Serviços Oficiais Spero[/size]
-[color=orange]? Criação de Exchange própria[/color]
-[color=red]? Liberação de saques em Reais(BRL) na casa de câmbio oficial[/color]
+[color=orange]→ Criação de Exchange própria[/color]
+[color=red]→ Liberação de saques em Reais(BRL) na casa de câmbio oficial[/color]
 
 [size=12pt]Serviços Sociais[/size]
-[color=red]? Participação em projetos sociais dentro da comunidade da cidade de Belo Horizonte
-? Criação do Mercado Social
-? Criação do Banco Social Spero[/color][/b]
+[color=red]→ Participação em projetos sociais dentro da comunidade da cidade de Belo Horizonte
+→ Criação do Mercado Social
+→ Criação do Banco Social Spero[/color][/b]
 
 [img]https://i.imgur.com/Yqbxkz2.png[/img]
 [/center]
@@ -235,21 +238,21 @@ Update Protocol Others general's updates
 
 [b]$0010 2017/10/10[/b]
 Update for new implementations:
-? Added option of cleaning of orphans blocks;
-? Added display option "STAKE" in the "type" column inside the "Transactions" tab;
-? Added "setban" node "" add | remove "(bantime)" / "listbanned" and "clearbanned" in the RPC console;
+→ Added option of cleaning of orphans blocks;
+→ Added display option "STAKE" in the "type" column inside the "Transactions" tab;
+→ Added "setban" node "" add | remove "(bantime)" / "listbanned" and "clearbanned" in the RPC console;
 
 [b]$0012 2017/10/11[/b]
 Ban Forked Peers who are stuck in a Getblocks Loop.
 
 [b]$0013 2017/10/22[/b]
-? Update of strings names;
-? Updating information in README.md
-? Update Stake Info in QT Wallet
+→ Update of strings names;
+→ Updating information in README.md
+→ Update Stake Info in QT Wallet
 
 [b]$0015 2017/11/18[/b]
-? Release of testnet mining;
-? File Fix:
+→ Release of testnet mining;
+→ File Fix:
 • main.cpp
 • alter.cpp
 • checkpoints.cpp
@@ -260,35 +263,56 @@ Add node in the source:
 addnode=http://dnssperocoin.ddnsking.com:55680
 
 [b]$0017 2018/03/28[/b]
-? Add RPC Command "GETWALLETINFO"
-? Update of transaction maturity icons
-? splash screen main update
-? Updating the logo inside the Wallet
-? Added hashGenesisBlockTestNet = 0x00001fe23e7d6951a2a07ad684ff208fab9110fad607fabd81482a1692382f8f in main.h file
-? Added testnet block.nNonce in main.cpp file (block.nNonce = 15547;)
-? Added static MapCheckpoints mapCheckpointsTestnet = (0, uint256("0x000006f4925ed7b889f847f24621390d4943466f091c3254ca1bd8becc517f7b")) in the checkpoints.cpp file
-? Change the initial letter of the testnet addresses in the base58.h file (PUBKEY_ADDRESS_TEST = 125, // Initial address letter (63 = s) -TESTNET))
-? Change the example initial letter in the file qt / sendcoinsdialog.cpp
+→ Add RPC Command "GETWALLETINFO"
+→ Update of transaction maturity icons
+→ splash screen main update
+→ Updating the logo inside the Wallet
+→ Added hashGenesisBlockTestNet = 0x00001fe23e7d6951a2a07ad684ff208fab9110fad607fabd81482a1692382f8f in main.h file
+→ Added testnet block.nNonce in main.cpp file (block.nNonce = 15547;)
+→ Added static MapCheckpoints mapCheckpointsTestnet = (0, uint256("0x000006f4925ed7b889f847f24621390d4943466f091c3254ca1bd8becc517f7b")) in the checkpoints.cpp file
+→ Change the initial letter of the testnet addresses in the base58.h file (PUBKEY_ADDRESS_TEST = 125, // Initial address letter (63 = s) -TESTNET))
+→ Change the example initial letter in the file qt / sendcoinsdialog.cpp
 (ui-> lineEditCoinControlChange-> setPlaceholderText (tr ("Enter the SperoCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)"));)
-? Changed version to 2.6.4.3
+→ Changed version to 2.6.4.3
 
 [b]$0019 2018/07/15[/b]
-? Added RPC command "getnetworkinfo" - Change in files: bitcoinrpc.cpp;
+→ Added RPC command "getnetworkinfo" - Change in files: bitcoinrpc.cpp;
 bitcoinrpc.h; rpcblockchain.cpp; rpcnet.cpp
-? Added RPC command "getblockchaininfo" - Change in files:
+→ Added RPC command "getblockchaininfo" - Change in files:
 bitcoinrpc.cpp; bitcoinrpc.h; rpcblockchain.cpp; rpcnet.cpp
-? Added Wallet Status Information (Locked or Unlocked) in the RPC
+→ Added Wallet Status Information (Locked or Unlocked) in the RPC
 command "getinfo"
-? Added new points in the network map updating the mapping up to block
+→ Added new points in the network map updating the mapping up to block
 130000- Change in file: checkpoints.cpp
-? Changing copyrights, updating the start date of SperoCoin works,
+→ Changing copyrights, updating the start date of SperoCoin works,
 being: "Copyright © 2017 The SperoCoin developers" - Change in ".ts"
 files in the "src \ qt \ locale" folder
-? Update of QT splashscreen images
-? Changing QT fonts for "Century Gothic"
-? Clear Orphans with automatic transaction page refresh, no need to
+→ Update of QT splashscreen images
+→ Changing QT fonts for "Century Gothic"
+→ Clear Orphans with automatic transaction page refresh, no need to
 restart wallet
-? Changed version to 2.6.4.4
+→ Changed version to 2.6.4.4
+
+[b]$0020 2018/07/31[/b]
+→ Add/Remove Nodes
+
+[b]$0021 2018/10/27[/b]
+→ Added new points in the network map updating the mapping up to block 165962- Change in file: checkpoints.cpp
+→ Performance Enhancements - Increased Speed ​​in Synchronization - Changes in files: main.cpp; main.h;
+→ Added new icons
+→ Change style of block download progress bar from "QWindowsXPStyle" to "QWindowsVistaStyle" - Changes in file: bitcoingui.cpp
+→ Changing the size of the icons in "STATUSBAR_ICONSIZE" from 16 to 64 - Changes in file: guiconstants.h
+→ Adding SperoCoin.conf file opening from the Console Window menu
+→ Changed description of mining type PoW
+→ Changed description of mining type PoS
+→ New PoS Mining Icon
+→ Changed version to 2.6.4.5
+
+[b]$0022 2018/12/08[/b]
+→ Alterada Versão para 2.6.4.6;
+→ Altercada versão do protocolo para mínimo 700001;
+→ Adicionada Introdução;
+→ Adicionado pontos de checagem de blocos até o bloco 180000
 
 [center][img]http://www.cursosopcao.com.br/lojavirtual/wp-content/uploads/2016/10/servicos-talento-sa_recrutamento-selecao-rh1.png[/img][/center]
 
