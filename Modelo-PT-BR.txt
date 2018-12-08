@@ -58,7 +58,7 @@ ENDEREÇOS INICIANDO COM A LETRA "S" e "s" em testnet
 TOTAL DE MOEDAS: ~7 milhões
 ÚLTIMO BLOCO PoW NA PRIMEIRA FASE: 33331
 MOEDAS PRÉ-MINERADAS: ~100000 SPERO
-[img]http://travelbyerin.com/images/divider.png[/img]
+[img]https://travelbyerin.com/images/divider.png[/img]
 [size=18pt][b]Fases da Sperocoin(Blocos) [/b][/size]
 
 [size=12pt]
@@ -365,4 +365,4 @@ Em breve...
 
 
 
-[url=https://sperocoin.org/][img]http://sperocoin.org/files/footer-logo1.png[/img][/url]
+[url=https://sperocoin.org/][img]https://sperocoin.org/files/footer-logo1.png[/img][/url]
