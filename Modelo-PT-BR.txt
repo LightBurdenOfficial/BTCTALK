@@ -28,7 +28,7 @@ A propagação para as exchanges e outros trabalhos está sendo necessária para
 [size=15pt][b]Download:[/b]
 [url=https://github.com/DigitalCoin1/SperoCoin/releases/download/SperoCoin-v.2.6.4.6/SperoCoin-v.2.6.4.6.exe]QT Windows[/url]
 [url=https://github.com/DigitalCoin1/SperoCoin/releases/download/SperoCoin-v.2.6.4.6/SperoCoind-v.2.6.4.6.exe]Daemon Windows[/url]
-[url=https://github.com/DigitalCoin1/SperoCoin_Android/releases/download/SperoCoin-v.2.6.4.6-BETA/SperoCoin-v.2.6.4.6-BETA.apk]Android ARMv-7 Full Node[/url][/size]
+[url=https://github.com/DigitalCoin1/SperoCoin_Android/releases/download/SperoCoin-v.2.6.4.6-BETA/SperoCoin-v.2.6.4.6-BETA.apk]Android ARMv-7 Full Node[/url]
 [url=https://sperocoin.org/files/SperoCoin-Version-LITE.apk]Android Lite[/url][/size]
 
 [img]https://i.imgur.com/rKTz1It.png[/img]
