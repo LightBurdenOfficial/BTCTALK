@@ -26,10 +26,10 @@ A propagação para as exchanges e outros trabalhos está sendo necessária para
 [url=https://discord.gg/zAMNCZj][img]https://www.shareicon.net/data/128x128/2017/06/21/887435_logo_512x512.png[/img][/url] [email=sperocoin@gmail.com][img]https://image.flaticon.com/icons/png/128/300/300228.png[/img][/email] | [url=https://t.me/sperocoin_official][img]http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png[/img][/url] | [url=https://www.facebook.com/sperocoinofficial/][img]https://icon-icons.com/icons2/478/PNG/128/facebook_47004.png[/img][/url] | [url=https://trello.com/b/jYZvXKDs/sperocoin][img]https://www.shareicon.net/data/128x128/2016/07/10/119952_trello_512x512.png[/img][/url] | [url=https://sperocoin.slack.com/][img]https://sozercan.gallerycdn.vsassets.io/extensions/sozercan/slack/0.0.13/1487008473820/Microsoft.VisualStudio.Services.Icons.Default[/img][/url] | [url=https://twitter.com/Spero_Official][img]https://icon-icons.com/icons2/555/PNG/128/twitter_icon-icons.com_53611.png[/img][/url] | [url=https://www.youtube.com/channel/UCQQjsoCjR_THbZ4AmalzPPg][img]http://icons.iconarchive.com/icons/danleech/simple/128/youtube-icon.png[/img][/url][/size]
 
 [size=15pt][b]Download:[/b]
-[url=https://drive.google.com/open?id=19iKufDG64tKhjLiLtL6CIJ9t4Q2JEJ9f]QT Windows[/url]
-[url=https://drive.google.com/open?id=1C1NWAABujE0KHHt3JJigm7ol9IaTva7J]Daemon Windows[/url]
-[url=https://drive.google.com/open?id=1Uz9QmaiE-aMniT_MYX0Lta1iLRHnoPrw]QT Ubuntu[/url]
-[url=https://drive.google.com/open?id=1RN0IKT81IV37pWBMRgdzz6edPrQi8py7]Daemon Ubuntu[/url][/size]
+[url=https://github.com/DigitalCoin1/SperoCoin/releases/download/SperoCoin-v.2.6.4.6/SperoCoin-v.2.6.4.6.exe]QT Windows[/url]
+[url=https://github.com/DigitalCoin1/SperoCoin/releases/download/SperoCoin-v.2.6.4.6/SperoCoind-v.2.6.4.6.exe]Daemon Windows[/url]
+[url=https://github.com/DigitalCoin1/SperoCoin_Android/releases/download/SperoCoin-v.2.6.4.6-BETA/SperoCoin-v.2.6.4.6-BETA.apk]Android ARMv-7 Full Node[/url][/size]
+[url=https://sperocoin.org/files/SperoCoin-Version-LITE.apk]Android Lite[/url][/size]
 
 [img]https://i.imgur.com/rKTz1It.png[/img]
 
@@ -101,6 +101,12 @@ ALTILLY
 [color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_BTC
 [color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_ETH
 [color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_DOGE
+
+PROBITEX
+[color=green]•[/color] ONLINE! → https://www.probitex.com/trade/index/market/spero_btc
+
+NANU EXCHANGE
+[color=green]•[/color] ONLINE! → https://nanu.exchange/exchange#btc_spero
 
 
 P2P
