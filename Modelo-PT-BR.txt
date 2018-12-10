@@ -31,6 +31,33 @@ A propagação para as exchanges e outros trabalhos está sendo necessária para
 [url=https://github.com/DigitalCoin1/SperoCoin_Android/releases/download/SperoCoin-v.2.6.4.6-BETA/SperoCoin-v.2.6.4.6-BETA.apk]Android ARMv-7 Full Node[/url]
 [url=https://sperocoin.org/files/SperoCoin-Version-LITE.apk]Android Lite[/url][/size]
 
+Compile Linux:
+Download and install the dependencies:
+[code]
+$ sudo apt-get install build-essential libboost-all-dev libcurl4-openssl-dev libdb5.3-dev libdb5.3++-dev qt-sdk libminiupnpc-dev qrencode libqrencode-dev git libtool automake autotools-dev autoconf pkg-config libssl-dev libgmp3-dev libevent-dev bsdmainutils
+[/code]
+[size=15pt]Clone the github source code for the local machine:
+[code]
+$ git clone https://github.com/DigitalCoin1/SperoCoin
+[/code]
+[size=15pt]Compile the daemon in the SperoCoin/src directory:
+[code]
+$ cd SperoCoin/src
+$ make -f makefile.unix USE_UPNP=- USE_IPV6=1
+$ strip SperoCoind
+[/code]
+[size=15pt]Run daemon in the SperoCoin/src directory:
+[code]
+./SperoCoind
+[/code]
+
+[size=15pt][OPTIONAL]Compile the QT in the SperoCoin directory:
+[code]
+$ sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libqrencode-dev
+$ qmake SperoCoin-qt.pro "USE_UPNP=-" "USE_QRCODE=1"
+$ make -f Makefile
+[/code]
+
 [img]https://i.imgur.com/rKTz1It.png[/img]
 
 [url=https://webwallet.sperocoin.org][img]https://i.imgur.com/kgP7SkY.png[/img][/url]
