@@ -1,8 +1,8 @@
 [center]
 
-[img]https://camo.githubusercontent.com/62db3b7ec3edbc6d7d8955076576c5fcafad2a17/68747470733a2f2f692e696d6775722e636f6d2f6c58534d4d52322e706e67[/img]
+[img]https://i.imgur.com/MdJCzs4.png[/img]
 
-[img]https://i.imgur.com/94Tqfhg.png[/img]
+[img]https://i.imgur.com/maGDsyq.png[/img]
 
 [color=orange][size=19pt][b]Sperocoin [/b] é uma moeda POW/POS, ou seja, pode ser obtida tanto com a mineração via CPU/GPU quanto pela mineração apenas deixando a wallet aberta com saldo disponível.
 Desta forma você não briga com grandes centros de mineração, conseguindo obter suas moedas também apenas com saldo ativo.
@@ -17,19 +17,22 @@ Desta forma ela está sendo primeiramente disponibilizada em um pequeno curso de
 
 A propagação para as exchanges e outros trabalhos está sendo necessária para compras de mais equipamentos e aumento assim desta grande família de forma informativa. [/color]
 
-[img]https://i.imgur.com/8UEXAFu.png[/img]
+[img]https://i.imgur.com/Mb3heOP.png[/img]
 
-[img]https://www.splunk.com/content/dam/splunk2/images/icons/products-solutions/website-performance-icon-01.png[/img]
 [size=40pt]https://sperocoin.org[/size]
+
+[img]https://i.imgur.com/ti25JRZ.png[/img]
 
 [size=10pt]
 [url=https://discord.gg/zAMNCZj][img]https://www.shareicon.net/data/128x128/2017/06/21/887435_logo_512x512.png[/img][/url] [email=sperocoin@gmail.com][img]https://image.flaticon.com/icons/png/128/300/300228.png[/img][/email] | [url=https://t.me/sperocoin_official][img]http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png[/img][/url] | [url=https://www.facebook.com/sperocoinofficial/][img]https://icon-icons.com/icons2/478/PNG/128/facebook_47004.png[/img][/url] | [url=https://trello.com/b/jYZvXKDs/sperocoin][img]https://www.shareicon.net/data/128x128/2016/07/10/119952_trello_512x512.png[/img][/url] | [url=https://sperocoin.slack.com/][img]https://sozercan.gallerycdn.vsassets.io/extensions/sozercan/slack/0.0.13/1487008473820/Microsoft.VisualStudio.Services.Icons.Default[/img][/url] | [url=https://twitter.com/Spero_Official][img]https://icon-icons.com/icons2/555/PNG/128/twitter_icon-icons.com_53611.png[/img][/url] | [url=https://www.youtube.com/channel/UCQQjsoCjR_THbZ4AmalzPPg][img]http://icons.iconarchive.com/icons/danleech/simple/128/youtube-icon.png[/img][/url][/size]
 
-[size=15pt][b]Download:[/b]
+[img]https://i.imgur.com/bVGob1M.png[/img]
+[size=15pt]
 [url=https://github.com/DigitalCoin1/SperoCoin/releases/download/SperoCoin-v.2.6.4.6/SperoCoin-v.2.6.4.6.exe]QT Windows[/url]
 [url=https://github.com/DigitalCoin1/SperoCoin/releases/download/SperoCoin-v.2.6.4.6/SperoCoind-v.2.6.4.6.exe]Daemon Windows[/url]
 [url=https://github.com/DigitalCoin1/SperoCoin_Android/releases/download/SperoCoin-v.2.6.4.6-BETA/SperoCoin-v.2.6.4.6-BETA.apk]Android ARMv-7 Full Node[/url]
 [url=https://sperocoin.org/files/SperoCoin-Version-LITE.apk]Android Lite[/url][/size]
+
 
 Compile Linux:
 Download and install the dependencies:
@@ -58,21 +61,20 @@ $ qmake SperoCoin-qt.pro "USE_UPNP=-" "USE_QRCODE=1"
 $ make -f Makefile
 [/code]
 
-[img]https://i.imgur.com/rKTz1It.png[/img]
+[img]https://i.imgur.com/QoB0Hj8.png[/img]
 
 [url=https://webwallet.sperocoin.org][img]https://i.imgur.com/kgP7SkY.png[/img][/url]
 
 
 [url=https://sperocoin.org/faucet][img]https://i.imgur.com/t9KdPim.png[/img][/url]
 
-[img]https://i.imgur.com/BMqYUmj.png[/img]
+[img]https://i.imgur.com/qCS6j0n.png[/img]
 
 [img]https://sperocoin.org/whitepaper/assets/images/distribuicao.png[/img]
 [img]https://sperocoin.org/whitepaper/assets/images/foundation.png[/img]
 
 
-[img]https://i.imgur.com/Nw9uHRt.png[/img]
-
+[img]https://i.imgur.com/kXXAnDP.png[/img]
 
 [size=15pt]ALGORITMO: X13
 TEMPO DE BLOCO: 60 segundos
@@ -100,7 +102,7 @@ Proof of Work + Proof of Stake: acima de 263251 [/size]
 
 
 
-[img]https://i.imgur.com/kaHGP0n.png[/img]
+[img]https://i.imgur.com/L5YbkXc.png[/img]
 [quote]rpcuser=user
 rpcpassword=password
 rpcport=55681
@@ -120,10 +122,9 @@ addnode=45.195.201.179:55680
 addnode=189.26.128.166:55680
 [/quote]
 
-[img]https://i.imgur.com/R0q22Fj.png[/img]
+[img]https://i.imgur.com/VX1BOU4.png[/img]
 
 [size=15pt]
-
 ALTILLY
 [color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_BTC
 [color=green]•[/color] ONLINE! → https://www.altilly.com/market/SPERO_ETH
@@ -145,16 +146,16 @@ VOTE
 [color=red]•[/color] VOTE!:https://aiodex.com/vote/spero
 [/size]
 
-[img]https://i.imgur.com/ubYvDj7.png[/img]
+[img]https://i.imgur.com/dNJi8i9.png[/img]
 
 [url=https://github.com/DigitalCoin1/DigitalCoinBRL][img]http://files.softicons.com/download/social-media-icons/sociocons-icons-by-rohit-tripathi/png/256x256/github-sociocon.png[/img][/url]
 
 
-[img]https://i.imgur.com/uhThbtH.png[/img]
+[img]https://i.imgur.com/k70HVBk.png[/img]
 
-→ http://35.198.22.94:3001
+→ http://sperocoin.ddns.net:3001
 
-[img]https://i.imgur.com/XVOgvwP.png[/img]
+[img]https://i.imgur.com/To0SvrS.png[/img]
 
 [img]https://i.imgur.com/mMqfYyd.png[/img]
 
@@ -193,7 +194,11 @@ Solo GPU:
 • Mantenha a carteira desbloqueada para participar
 • Rendimento de 25% ao ano sob o saldo total da wallet
 
-[img]https://i.imgur.com/bPTc5QP.png[/img]
+[size=15pt]Pool's Stake:[/size]
+https://cryptostake.es/
+https://staking.world/Pages/index.aspx
+
+[img]https://i.imgur.com/b0Bu8WX.png[/img]
 
 Wallet Android: 1000 SPERO
 Wallet iOS: 1000 SPERO
@@ -250,7 +255,7 @@ Os valores serão pagos apenas 01(uma) vez por usuário verificado!
 → Criação do Mercado Social
 → Criação do Banco Social Spero[/color][/b]
 
-[img]https://i.imgur.com/Yqbxkz2.png[/img]
+[img]https://i.imgur.com/FW7ND9f.png[/img]
 [/center]
 
 
@@ -391,11 +396,11 @@ Foundation_Programador_FRONTEND - SjvTsyPeV5cty6Vvyb8Mq6D6JAo92amkai
 Foundation_Dev_Core01 - ScsbwK24iZXMcj2QCCkFBP1B5PeeiWoy1P
 Foundation_Dev_Core02 - SerCHrxrB4i45LGbACrXguDiWVKaq7qLmX
 
-[center][img]https://i.imgur.com/8RGaYiW.png[/img]
+[center][img]https://i.imgur.com/wa65kCc.png[/img]
 Em breve...
 [/center]
 
 
 
 
-[url=https://sperocoin.org/][img]https://sperocoin.org/files/footer-logo1.png[/img][/url]
+[url=https://sperocoin.org/][img]https://i.imgur.com/HH1Y8bJ.png[/img][/url]
